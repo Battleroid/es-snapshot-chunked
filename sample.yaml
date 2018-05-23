@@ -1,0 +1,8 @@
+---
+host: http://localhost:9200
+username: curator
+password: totally-a-password
+repo: ceph
+chunk_size: 250
+name: '%Y%m%d'
+threshold: 0.25
